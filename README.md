@@ -1,0 +1,1 @@
+- 20242R Korea University COSE341 (Operating System) Note
